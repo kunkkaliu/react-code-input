@@ -6,4 +6,5 @@ styles/*.map
 coverage
 .nyc_output
 .tmp
+.idea
 componentsIndex.js
